@@ -1,7 +1,7 @@
 Hi 👋 My name is Hai Nguyen
 ===========================
 
-https://i.pinimg.com/736x/8c/18/71/8c18716e6caece6eb24ad91e112866ff.jpg
+![Image](https://github.com/user-attachments/assets/e1c4f8e8-1d98-4033-aca1-7e31ddbaa29b)
 
 I've been coding for 2 years during my time studying at UNA
 
