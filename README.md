@@ -6,7 +6,7 @@ Hi 👋 My name is Hai Nguyen
 I've been coding for 2 years during my time studying at UNA
 
 * 🌍  I'm based in Florence, AL
-* 🚀  I'm currently working on [Dev Easy Project](https://hnguyen1995.github.io/Dev-Easy-project-stuff/)
+* 🚀  I'm currently working on [Dev Easy Project](https://github.com/hnguyen1995/Dev-Easy-project-stuff)
 * 🧠  I'm learning HTML
 * 🤝  I'm open to collaborating on Anything
 
