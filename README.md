@@ -1,6 +1,8 @@
 Hi 👋 My name is Hai Nguyen
 ===========================
 
+https://i.pinimg.com/736x/8c/18/71/8c18716e6caece6eb24ad91e112866ff.jpg
+
 I've been coding for 2 years during my time studying at UNA
 
 * 🌍  I'm based in Florence, AL
