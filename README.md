@@ -7,7 +7,7 @@ I've been coding for 2 years, mostly from studying at UNA.
 
 * 🌍  I'm based in Florence, AL
 * 🚀  I'm currently working on [Dev Charlie Project](https://github.com/hnguyen1995/dev-charlie-project)
-* 🧠  I'm learning HTML
+* 🧠  I'm learning Html, Css, Js
 * 🤝  I'm open to collaborating on anything
 
 ### Skills
