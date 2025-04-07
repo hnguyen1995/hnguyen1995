@@ -1,4 +1,4 @@
-Hi ✌️ My name is Hai Nguyen  💪🐷
+Hi ✌️🐷 My name is Hai Nguyen  
 ===========================
 
 <img src="https://raw.githubusercontent.com/hnguyen1995/thumbnail/refs/heads/main/vbvbvb.jpg" width="200" height="200" />
