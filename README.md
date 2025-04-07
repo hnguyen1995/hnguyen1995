@@ -3,12 +3,12 @@ Hi 👋 My name is Hai Nguyen
 
 <img src="https://i.pinimg.com/736x/8c/18/71/8c18716e6caece6eb24ad91e112866ff.jpg" width="200" height="200" />
 
-I've been coding for 2 years during my time studying at UNA
+I've been coding for 2 years, mostly from styding at UNA.
 
 * 🌍  I'm based in Florence, AL
 * 🚀  I'm currently working on [Dev Easy Project](https://github.com/hnguyen1995/Dev-Easy-project-stuff)
 * 🧠  I'm learning HTML
-* 🤝  I'm open to collaborating on Anything
+* 🤝  I'm open to collaborating on anything
 
 ### Skills
 
